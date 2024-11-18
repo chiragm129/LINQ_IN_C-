@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\chirag mali\source\repos\LinqDemo\LinqDemo\obj\Debug\LinqDemo.pdb

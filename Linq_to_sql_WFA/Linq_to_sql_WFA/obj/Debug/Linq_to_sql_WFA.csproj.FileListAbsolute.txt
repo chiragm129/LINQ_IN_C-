@@ -1,0 +1,14 @@
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\bin\Debug\StudentDB.mdf
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\bin\Debug\StudentDB_log.ldf
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\bin\Debug\Linq_to_sql_WFA.exe.config
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\bin\Debug\Linq_to_sql_WFA.exe
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\bin\Debug\Linq_to_sql_WFA.pdb
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.Form1.resources
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.Properties.Resources.resources
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.csproj.GenerateResource.cache
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.exe
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.pdb
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.Form2.resources
+C:\Users\chirag mali\source\repos\Linq_to_sql_WFA\Linq_to_sql_WFA\obj\Debug\Linq_to_sql_WFA.Form3.resources

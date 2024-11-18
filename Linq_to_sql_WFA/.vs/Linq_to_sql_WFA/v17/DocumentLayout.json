@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CHIRAG_MALI_SOURCE_REPOS_LINQ_TO_SQL_WFA_LINQ_TO_SQL_WFA_STUDENTDB.MDF/True/SqlTable/dbo.Student.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\studentdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\studentdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\studentdb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\studentdb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|c:\\users\\chirag mali\\source\\repos\\linq_to_sql_wfa\\linq_to_sql_wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959A155-5582-4215-87C8-204FD933AEAE}|Linq_to_sql_WFA\\Linq_to_sql_WFA.csproj|solutionrelative:linq_to_sql_wfa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Student [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CHIRAG_MALI_SOURCE_REPOS_LINQ_TO_SQL_WFA_LINQ_TO_SQL_WFA_STUDENTDB.MDF/True/SqlTable/dbo.Student.sql",
+              "ToolTip": "dbo.Student [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-04T04:40:58.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form3.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Form3.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form3.cs",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Form3.cs",
+              "ViewState": "AQIAABsAAABAMzMzMzMdwCIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:15:54.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form3.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Form3.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form3.cs [Design]",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:13:33.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDB.dbml",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\StudentDB.dbml",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\StudentDB.dbml",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\StudentDB.dbml",
+              "RelativeToolTip": "Linq_to_sql_WFA\\StudentDB.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-09-04T03:30:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Program.cs",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:40:37.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDB.designer.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\StudentDB.designer.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\StudentDB.designer.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\StudentDB.designer.cs",
+              "RelativeToolTip": "Linq_to_sql_WFA\\StudentDB.designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAEwFEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:32:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form1.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Form1.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form1.cs [Design]",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:37:59.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form2.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Form2.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form2.cs [Design]",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:09:17.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form2.cs",
+              "RelativeDocumentMoniker": "Linq_to_sql_WFA\\Form2.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Linq_to_sql_WFA\\Linq_to_sql_WFA\\Form2.cs",
+              "RelativeToolTip": "Linq_to_sql_WFA\\Form2.cs",
+              "ViewState": "AQIAADUAAACAmZmZmRkwwDkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:37:07.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
